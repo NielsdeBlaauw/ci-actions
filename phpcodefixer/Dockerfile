@@ -1,2 +1,2 @@
 FROM composer
-RUN composer require -g wapmorgan/php-code-fixer
+RUN composer global require wapmorgan/php-code-fixer
